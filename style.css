@@ -673,6 +673,20 @@ a:hover .arrow,
     letter-spacing: 0.08em;
 }
 
+.project-capability {
+    font-size: 14px;
+    color: var(--fg-1);
+    line-height: 1.5;
+    display: flex;
+    align-items: baseline;
+    gap: 0.5em;
+}
+
+.cap-bullet {
+    color: var(--accent);
+    font-size: 11px;
+}
+
 .project-tag {
     display: inline-block;
     font-size: 11px;

@@ -15,9 +15,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const typedEl = document.getElementById('typed');
     if (typedEl) {
         const phrases = [
-            'backend engineer · fintech · distributed systems',
+            'full-stack engineer · fintech · distributed systems',
             'building data-intensive platforms at Deutsche Bank',
-            'java · golang · python · gcp',
+            'java · golang · react · typescript',
             'currently shipping dbCIS to corporate clients'
         ];
 
